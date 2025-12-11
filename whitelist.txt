@@ -10,7 +10,6 @@ deimos3.apple.com
 gg*.apple.com 
 *.symcd.com 
 mesu.apple.com
-
 albert.apple.com
 captive.apple.com
 gs.apple.com 
@@ -56,4 +55,5 @@ identity.apple.com
 iprofiles.apple.com 
 mdmenrollment.apple.com 
 setup.icloud.com 
+
 vpp.itunes.apple.com
