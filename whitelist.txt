@@ -55,5 +55,4 @@ identity.apple.com
 iprofiles.apple.com 
 mdmenrollment.apple.com 
 setup.icloud.com 
-
 vpp.itunes.apple.com
