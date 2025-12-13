@@ -1,3 +1,13 @@
+topspin.npo.nl
+atconnect-npo-nl-cddc.at-o.net
+trace.svc.ui.com
+energiemail.anwb.nl
+atconnect.npo.nl
+atconnect-npo-nl-cddc.at-o.net
+rtvutrecht.bbvms.com
+nmonpoendpoint.2cnt.net
+metrics.icloud.com
+tk.airfrance.fr^$important
 *.rabobank.nl
 *.push.apple.com
 *.itunes.apple.com 
@@ -57,4 +67,5 @@ iprofiles.apple.com
 mdmenrollment.apple.com 
 setup.icloud.com 
 vpp.itunes.apple.com
+
 
