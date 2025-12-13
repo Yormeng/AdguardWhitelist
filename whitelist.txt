@@ -7,7 +7,7 @@ atconnect-npo-nl-cddc.at-o.net
 rtvutrecht.bbvms.com
 nmonpoendpoint.2cnt.net
 metrics.icloud.com
-tk.airfrance.fr^$important
+tk.airfrance.fr
 *.rabobank.nl
 *.push.apple.com
 *.itunes.apple.com 
@@ -67,5 +67,6 @@ iprofiles.apple.com
 mdmenrollment.apple.com 
 setup.icloud.com 
 vpp.itunes.apple.com
+
 
 
